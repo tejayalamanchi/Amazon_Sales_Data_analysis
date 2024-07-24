@@ -35,16 +35,6 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 5. **Scalable Dataset**: With over 9,000 rows of data, the project offers a scalable and realistic dataset that simulates real-world scenarios, providing valuable insights into Amazon's sales operations.
 
-
-
-
-## Entity Relationship Diagram
-
-![](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/blob/main/entity_relationship_diagram..png)
-
-An entity relationship diagram (ERD) was created to illustrate the relationships between the tables and how they are connected through keys. This ERD visually represents the primary and foreign key constraints, making it easier to understand the structure and relationships within the dataset. By analyzing the ERD, one can quickly grasp how data flows between tables, aiding in the comprehension of complex queries and the overall database schema.
-
-
 ## Business Problems Solved
 
 1. Find total sales for each category ?
@@ -57,6 +47,18 @@ An entity relationship diagram (ERD) was created to illustrate the relationships
 8. Find the product details who has done the sale greater than the average sale?
 
 
+## Entity Relationship Diagram
+
+![](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/blob/main/entity_relationship_diagram..png)
+
+An entity relationship diagram (ERD) was created to illustrate the relationships between the tables and how they are connected through keys. This ERD visually represents the primary and foreign key constraints, making it easier to understand the structure and relationships within the dataset. By analyzing the ERD, one can quickly grasp how data flows between tables, aiding in the comprehension of complex queries and the overall database schema.
+
+
+
+
+## Conclusion
+
+This project successfully demonstrates the power of SQL in analyzing and deriving insights from a large dataset of Amazon sales records. By utilizing advanced SQL queries and data analysis techniques, we explored various dimensions of the data, uncovering key trends and patterns in sales, customer behavior, and product performance. The creation of an entity relationship diagram provided a clear understanding of the dataset's structure and relationships, enhancing the analysis process. Overall, this project highlights the importance of thorough data preprocessing and thoughtful database design in achieving accurate and meaningful results.
 
 
 
