@@ -3,4 +3,4 @@
  
 This repository contains a comprehensive analysis of Amazon's sales data using SQL, showcasing skills in data extraction, transformation, and aggregation. Dive in to explore the SQL queries and insights derived from the dataset
 
-##Introduction
+## Introduction
