@@ -20,3 +20,15 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 4. Returns table
 
 5. Seller table
+
+## Entity Relationship Diagram
+
+![]()
+
+
+
+
+
+
+
+
