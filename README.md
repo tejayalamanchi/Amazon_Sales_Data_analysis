@@ -23,7 +23,7 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 ## Entity Relationship Diagram
 
-![]()
+![](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/blob/main/entity_relationship_diagram..png)
 
 
 
