@@ -47,7 +47,14 @@ An entity relationship diagram (ERD) was created to illustrate the relationships
 
 ## Business Problems Solved
 
-1.
+1. Find total sales for each category ?
+2. Find out top 5 customers who made the highest profits?
+3. Find out average qty ordered per category?
+4. Find Top 5 products that has generated highest revenue?
+5. Find all customer names, Total orders and their revenue?
+6. Find top 5 customers based on total orders in 2022?
+7. Find total orders placed by customers in 2nd month of 2022?
+8. Find the product details who has done the sale greater than the average sale?
 
 
 
