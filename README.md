@@ -21,6 +21,23 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 5. Seller table
 
+## Key Features
+
+Certainly! Here are five key features of this project:
+
+1. **Comprehensive Data Analysis**: The project provides in-depth analysis of Amazon sales data, covering various aspects such as sales trends, customer behavior, and product performance.
+   
+2. **Entity Relationship Diagram**: An ERD is included to clearly illustrate the relationships between the tables, showcasing the primary and foreign key connections within the project schema.
+
+3. **Data Preprocessing**: The dataset underwent thorough preprocessing to handle missing values and ensure data quality, providing a reliable foundation for analysis.
+
+4. **Advanced SQL Queries**: The project leverages advanced SQL queries to extract, transform, and analyze data, demonstrating proficiency in using SQL for complex data analysis tasks.
+
+5. **Scalable Dataset**: With over 9,000 rows of data, the project offers a scalable and realistic dataset that simulates real-world scenarios, providing valuable insights into Amazon's sales operations.
+
+
+
+
 ## Entity Relationship Diagram
 
 ![](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/blob/main/entity_relationship_diagram..png)
