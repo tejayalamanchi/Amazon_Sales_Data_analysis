@@ -25,6 +25,8 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 ![](https://github.com/tejayalamanchi/Amazon_Sales_Data_analysis/blob/main/entity_relationship_diagram..png)
 
+An entity relationship diagram (ERD) was created to illustrate the relationships between the tables and how they are connected through keys. This ERD visually represents the primary and foreign key constraints, making it easier to understand the structure and relationships within the dataset. By analyzing the ERD, one can quickly grasp how data flows between tables, aiding in the comprehension of complex queries and the overall database schema.
+
 
 
 
