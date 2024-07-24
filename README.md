@@ -11,12 +11,12 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 This project focuses on analyzing a dataset containing Amazon sales records, including information such as sales dates, customer details, product categories, and revenue figures. The analysis utilizes five tables, building relationships within them to provide comprehensive results. The dataset used in this project has more than 9,000 rows. The tables used in this project are:
 
-1.Orders table
+1. Orders table
 
-2.Customer table
+2. Customers table
 
-3.Product table
+3. Products table
 
-4.Return table
+4. Returns table
 
-5.Seller table
+5. Seller table
