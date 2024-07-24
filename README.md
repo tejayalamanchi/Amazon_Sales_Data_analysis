@@ -23,7 +23,7 @@ This project focuses on analyzing a dataset containing Amazon sales records, inc
 
 ## Key Features
 
-Certainly! Here are five key features of this project:
+
 
 1. **Comprehensive Data Analysis**: The project provides in-depth analysis of Amazon sales data, covering various aspects such as sales trends, customer behavior, and product performance.
    
