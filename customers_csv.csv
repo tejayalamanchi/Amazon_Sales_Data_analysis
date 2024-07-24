@@ -1,0 +1,277 @@
+﻿customer_id,customer_name,state
+CS101,Aman,Uttarakhand
+CS102,Sudhir,Chhattisgarh
+CS103,Aditi,Haryana
+CS104,Nitin,Meghalaya
+CS105,Ayush,Manipur
+CS106,Kabir,Arunachal Pradesh
+CS107,Saloni,Manipur
+CS108,Manisha,Telangana
+CS109,Tarun,Uttar Pradesh
+CS110,Avinash,Madhya Pradesh
+CS111,Rohan,Rajasthan
+CS112,Aarav,Madhya Pradesh
+CS113,Advait,Himachal Pradesh
+CS114,Bhavana,Punjab
+CS115,Vikas,Uttar Pradesh
+CS116,Vaibhav,Kerala
+CS117,Sandeep,Rajasthan
+CS118,Kajal,Nagaland
+CS119,Anjali,Kerala
+CS120,Shalini,Bihar
+CS121,Isha,Jharkhand
+CS122,Ankit,Telangana
+CS123,Meera,Meghalaya
+CS124,Gunjan,Maharashtra
+CS125,Shraddha,Tripura
+CS126,Akanksha,Mizoram
+CS127,Sarika,Chhattisgarh
+CS128,Vineet,Mizoram
+CS129,Priya,Himachal Pradesh
+CS130,Nikhil,Andhra Pradesh
+CS131,Anushka,Uttarakhand
+CS132,Kunal,Mizoram
+CS133,Karthik,Rajasthan
+CS134,Raman,Jharkhand
+CS135,Neha,Tripura
+CS136,Jhanvi,Punjab
+CS137,Sonam,Chhattisgarh
+CS138,Divya,Gujarat
+CS139,Kriti,Chhattisgarh
+CS140,Sakshi,Chhattisgarh
+CS141,Vikram,Rajasthan
+CS142,Shweta,Haryana
+CS143,Raj,Bihar
+CS144,Gayatri,Arunachal Pradesh
+CS145,Jatin,West Bengal
+CS146,Rakesh,Nagaland
+CS147,Rohit,Tamil Nadu
+CS148,Nidhi,Odisha
+CS149,Udit,Uttar Pradesh
+CS150,Anand,Tamil Nadu
+CS151,Sourabh,West Bengal
+CS152,Janhvi,Bihar
+CS153,Yogesh,Gujarat
+CS154,Disha,Bihar
+CS155,Simran,West Bengal
+CS156,Shakshi,Jharkhand
+CS157,Kavya,Andhra Pradesh
+CS158,Pooja,Nagaland
+CS159,Ananya,Arunachal Pradesh
+CS160,Sanjay,Assam
+CS161,Varun,Maharashtra
+CS162,Ishan,Himachal Pradesh
+CS163,Shiv,Jharkhand
+CS164,Lakshay,Maharashtra
+CS165,Rajesh,Tamil Nadu
+CS166,Vipul,Maharashtra
+CS167,Tanvi,Gujarat
+CS168,Sonia,Maharashtra
+CS169,Ravi,Andhra Pradesh
+CS170,Akash,West Bengal
+CS171,Alia,Jharkhand
+CS172,Abhilasha,Haryana
+CS173,Gaurav,Uttar Pradesh
+CS174,Prachi,Mizoram
+CS175,Swati,Arunachal Pradesh
+CS176,Amrita,Sikkim
+CS177,Akshay,Tripura
+CS178,Shashank,Maharashtra
+CS179,Ishita,Manipur
+CS180,Aishwarya,Chhattisgarh
+CS181,Pranav,Uttar Pradesh
+CS182,Deepak,Mizoram
+CS183,Hemant,Manipur
+CS184,Uma,Himachal Pradesh
+CS185,Hari,Haryana
+CS186,Utkarsh,Kerala
+CS187,Sagar,Madhya Pradesh
+CS188,Abhay,Meghalaya
+CS189,Saurabh,Punjab
+CS190,Jaya,Uttar Pradesh
+CS191,Deepika,Rajasthan
+CS192,Karan,Haryana
+CS193,Monica,Madhya Pradesh
+CS194,Ayesha,Jharkhand
+CS195,Shailendra,Meghalaya
+CS196,Himani,Kerala
+CS197,Ishika,Telangana
+CS198,Vinay,Haryana
+CS199,Mohit,Telangana
+CS200,Karishma,Jharkhand
+CS201,Abhishek,Uttar Pradesh
+CS202,Aarushi,Telangana
+CS203,Bhavya,Maharashtra
+CS204,Sapna,Punjab
+CS205,Sameer,Uttarakhand
+CS206,Deepti,Tamil Nadu
+CS207,Yash,Meghalaya
+CS208,Ishaan,Uttarakhand
+CS209,Sheetal,Maharashtra
+CS210,Prateek,Kerala
+CS211,Shreyas,Andhra Pradesh
+CS212,Rahul,Mizoram
+CS213,Arjun,Odisha
+CS214,Akhil,Assam
+CS215,Aniket,Uttarakhand
+CS216,Dev,West Bengal
+CS217,Harsh,Arunachal Pradesh
+CS218,Chirag,Uttar Pradesh
+CS219,Nisha,Goa
+CS220,Suresh,Himachal Pradesh
+CS221,Khushi,Mizoram
+CS222,Sunil,Chhattisgarh
+CS223,Chetan,Rajasthan
+CS224,Riya,Andhra Pradesh
+CS225,Shubham,West Bengal
+CS226,Mayank,Andhra Pradesh
+CS227,Sachin,Tripura
+CS228,Ramesh,Punjab
+CS229,Vinita,Arunachal Pradesh
+CS230,Vishal,Rajasthan
+CS231,Jai,Tripura
+CS232,Shivam,Manipur
+CS233,Sumit,Telangana
+CS234,Shreya,Mizoram
+CS235,Sahil,Haryana
+CS236,Samir,Jharkhand
+CS237,Harshita,Haryana
+CS238,Rupal,Mizoram
+CS101,Rohit,Jharkhand
+CS102,Nikhil,Jharkhand
+CS103,Swati,Goa
+CS104,Ishita,Jharkhand
+CS105,Saloni,Mizoram
+CS106,Shweta,Mizoram
+CS107,Kabir,Madhya Pradesh
+CS108,Aditi,Arunachal Pradesh
+CS109,Priya,Kerala
+CS110,Hemant,Odisha
+CS111,Rakesh,Haryana
+CS112,Uma,Gujarat
+CS113,Hari,Chhattisgarh
+CS114,Sudhir,Nagaland
+CS115,Divya,Karnataka
+CS116,Utkarsh,Kerala
+CS117,Sagar,Uttarakhand
+CS118,Amrita,Tamil Nadu
+CS119,Sanjay,Uttar Pradesh
+CS120,Abhay,Uttarakhand
+CS121,Sakshi,Himachal Pradesh
+CS122,Shakshi,Rajasthan
+CS123,Abhilasha,Mizoram
+CS124,Saurabh,Goa
+CS125,Jaya,West Bengal
+CS126,Raj,Kerala
+CS127,Aarav,Karnataka
+CS128,Ishan,Maharashtra
+CS129,Deepika,Maharashtra
+CS130,Shiv,Maharashtra
+CS131,Karan,West Bengal
+CS132,Sandeep,Odisha
+CS133,Monica,Tripura
+CS134,Anjali,Tripura
+CS135,Ayesha,Sikkim
+CS136,Aishwarya,Mizoram
+CS137,Isha,Andhra Pradesh
+CS138,Ananya,Karnataka
+CS139,Vipul,Tamil Nadu
+CS140,Anand,Madhya Pradesh
+CS141,Shailendra,Tripura
+CS142,Himani,Mizoram
+CS143,Kajal,Meghalaya
+CS144,Nitin,Bihar
+CS145,Gunjan,Meghalaya
+CS146,Ishika,Tripura
+CS147,Akanksha,Telangana
+CS148,Vinay,Gujarat
+CS149,Aman,Kerala
+CS150,Shalini,Tripura
+CS151,Mohit,Telangana
+CS152,Karishma,Uttarakhand
+CS153,Abhishek,Tamil Nadu
+CS154,Aarushi,Kerala
+CS155,Tanvi,Goa
+CS156,Jhanvi,West Bengal
+CS157,Vikram,Sikkim
+CS158,Akshay,West Bengal
+CS159,Bhavya,Karnataka
+CS160,Sapna,Rajasthan
+CS161,Neha,Jharkhand
+CS162,Sameer,Jharkhand
+CS163,Meera,Kerala
+CS164,Bhavana,Chhattisgarh
+CS165,Deepti,Mizoram
+CS166,Deepak,Andhra Pradesh
+CS167,Yash,Telangana
+CS168,Vikas,West Bengal
+CS169,Avinash,Kerala
+CS170,Manisha,Sikkim
+CS171,Ishaan,Mizoram
+CS172,Sheetal,West Bengal
+CS173,Jatin,Telangana
+CS174,Prateek,Himachal Pradesh
+CS175,Shreyas,Andhra Pradesh
+CS176,Rahul,Uttar Pradesh
+CS177,Anushka,Mizoram
+CS178,Arjun,Jharkhand
+CS179,Akhil,Punjab
+CS180,Vaibhav,Manipur
+CS181,Ravi,Andhra Pradesh
+CS182,Karthik,Madhya Pradesh
+CS183,Aniket,Meghalaya
+CS184,Dev,Haryana
+CS185,Harsh,Bihar
+CS186,Ankit,Haryana
+CS187,Raman,Andhra Pradesh
+CS188,Shraddha,Punjab
+CS189,Varun,Sikkim
+CS190,Gayatri,Nagaland
+CS191,Chirag,Nagaland
+CS192,Sarika,Goa
+CS193,Nidhi,Telangana
+CS194,Nisha,Tripura
+CS195,Suresh,Punjab
+CS196,Khushi,Punjab
+CS197,Kunal,Andhra Pradesh
+CS198,Sunil,Manipur
+CS199,Rohan,West Bengal
+CS200,Advait,Rajasthan
+CS201,Tarun,West Bengal
+CS202,Udit,Haryana
+CS203,Sonam,Odisha
+CS204,Chetan,Chhattisgarh
+CS205,Riya,Gujarat
+CS206,Rajesh,Odisha
+CS207,Sourabh,Sikkim
+CS208,Shubham,Odisha
+CS209,Yogesh,Meghalaya
+CS210,Ayush,West Bengal
+CS211,Gaurav,Maharashtra
+CS212,Mayank,Mizoram
+CS213,Sachin,Telangana
+CS214,Vineet,Assam
+CS215,Janhvi,Uttarakhand
+CS216,Ramesh,West Bengal
+CS217,Lakshay,Arunachal Pradesh
+CS218,Vinita,Uttar Pradesh
+CS219,Vishal,Goa
+CS220,Jai,Himachal Pradesh
+CS221,Shivam,Mizoram
+CS222,Sumit,Chhattisgarh
+CS223,Shashank,Rajasthan
+CS224,Disha,Andhra Pradesh
+CS225,Shreya,West Bengal
+CS226,Sahil,Andhra Pradesh
+CS227,Pooja,Tripura
+CS228,Kavya,Punjab
+CS229,Samir,Arunachal Pradesh
+CS230,Harshita,Rajasthan
+CS231,Sonia,Tripura
+CS232,Alia,Manipur
+CS233,Rupal,Telangana
+CS234,Kriti,Mizoram
+CS235,Simran,Haryana
+CS236,Akash,Jharkhand
+CS237,Prachi,Haryana
+CS238,Pranav,Mizoram
